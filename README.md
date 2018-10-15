@@ -5,4 +5,5 @@ events(accident, traffic light, all clear, students, etc. ) near you and let oth
 
 ## Posts with comments and images
 The posts are sent to and stored in the Google Firebase with corresponding markers displayed on the map.
+![image](https://github.com/seuygr/Matrix/blob/master/images/Report.png)
 ![image](https://github.com/seuygr/Matrix/blob/master/images/Posts%20and%20commends.png)
