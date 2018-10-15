@@ -6,4 +6,13 @@ events(accident, traffic light, all clear, students, etc. ) near you and let oth
 ## Posts with comments and images
 The posts are sent to and stored in the Google Firebase with corresponding markers displayed on the map. After clicking the marker on the map, you can find the details about this post.     
 ![image](https://github.com/seuygr/Matrix/blob/master/images/Report.png)
-![image](https://github.com/seuygr/Matrix/blob/master/images/Posts%20and%20commends.png)
+![image](https://github.com/seuygr/Matrix/blob/master/images/Posts%20and%20commends.png)   
+
+## Google Firebase
+### Databse
+This is where most data would be stored, including comments, geo locations, timestamp, images. 
+### Functions
+In this project, I use a self-built function to listen to the database, and send notifications to users if there is a new event near them.
+## Google Admob
+Admob is a mobile app advertising platform designed specifically for app developers. It offers a way to monetize other apps by showing ads in them. Here in this project, I add 
+
