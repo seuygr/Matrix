@@ -10,7 +10,7 @@ The posts are sent to and stored in the Google Firebase with corresponding marke
 
 ## Google Firebase
 ### Databse
-This is where most data would be stored, including comments, geo locations, timestamp, images. 
+This is where most data would be stored, including usersname, password, comments, geo locations, timestamp, images. 
 ### Functions
 In this project, I use a self-built function to listen to the database, and send notifications to users if there is a new event near them.  
 ![image](https://github.com/seuygr/Matrix/blob/master/images/Notifications.png)
