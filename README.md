@@ -4,6 +4,6 @@ Even though the frame of this app is built upon Google API, there are more featu
 events(accident, traffic light, all clear, students, etc. ) near you and let others see what's going on.
 
 ## Posts with comments and images
-The posts are sent to and stored in the Google Firebase with corresponding markers displayed on the map. After clicking the marker on the map, you can find the details about this post.
+The posts are sent to and stored in the Google Firebase with corresponding markers displayed on the map. After clicking the marker on the map, you can find the details about this post.     
 ![image](https://github.com/seuygr/Matrix/blob/master/images/Report.png)
 ![image](https://github.com/seuygr/Matrix/blob/master/images/Posts%20and%20commends.png)
