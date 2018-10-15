@@ -15,5 +15,6 @@ This is where most data would be stored, including comments, geo locations, time
 In this project, I use a self-built function to listen to the database, and send notifications to users if there is a new event near them.  
 ![image](https://github.com/seuygr/Matrix/blob/master/images/Notifications.png)
 ## Google Admob
-Admob is a mobile app advertising platform designed specifically for app developers. It offers a way to monetize other apps by showing ads in them. Here in this project, I add 
+Admob is a mobile app advertising platform designed specifically for app developers. It offers a way to monetize other apps by showing ads in them. Here in this project, I add the Google Admob at the bottom of login page.
+
 
