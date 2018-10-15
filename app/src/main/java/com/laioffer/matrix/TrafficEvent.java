@@ -93,5 +93,17 @@ public class TrafficEvent {
 
     private int event_like_number;
     private String event_description;
+
+
+    private String imgUri;
+
+    public String getImgUri() {
+        return imgUri;
+    }
+
+    public void setImgUri(String imgUri) {
+        this.imgUri = imgUri;
+    }
+
 }
 
